@@ -1,7 +1,6 @@
-import React from 'react'
-
-import Filters from './Filters'
-import PetBrowser from './PetBrowser'
+import React from 'react';
+import Filters from './Filters';
+import PetBrowser from './PetBrowser';
 
 class App extends React.Component {
   constructor() {
